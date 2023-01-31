@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I'm Antal Klemencsics
 
-<!--
-**kleme44/kleme44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working at **ALDI Sued** in Budapest, Hungary 🇭🇺 as a *DevOps engineer* of the International IT services 🧑‍💻. 
 
-Here are some ideas to get you started:
+As a second job, I've [started freelancing](www.kleme.hu) as a full-stack web developer, currently building my portfolio 🎯.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Also, working on improving these *public repository* stats 🕑
+
+<!-- Stats are from https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="http://www.github.com/kleme44">
+  <img src="https://github-readme-stats.vercel.app/api?username=kleme44&show_icons=true&theme=dark#gh-dark-mode-only" alt="Kleme44's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleme44&layout=compact&theme=dark#gh-dark-mode-only" align='right'>
+</a>
+
+<hr>
+
+<!-- Icon is from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- Visit counter is from https://github.com/antonkomarev/github-profile-views-counter -->
+
+<div>
+  <a href="https://www.linkedin.com/in/kleme/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <img alt="ProfileViews" src="https://komarev.com/ghpvc/?username=kleme44&color=lightgrey" align='right'>
+</div>
