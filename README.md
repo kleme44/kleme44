@@ -2,7 +2,7 @@
 
 Currently working at **ALDI Sued** in Budapest, Hungary 🇭🇺 as a *DevOps engineer* of the International IT services 🧑‍💻. 
 
-As a second job, I've [started freelancing](www.kleme.hu) as a full-stack web developer, currently building my portfolio 🎯.
+As a second job, I'm [starting freelancing](www.kleme.hu) as a full-stack web developer, currently building my portfolio 🎯.
 
 <hr>
 
@@ -10,10 +10,9 @@ Also, working on improving these *public repository* stats 🕑
 
 <!-- Stats are from https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="http://www.github.com/kleme44">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleme44&show_icons=true&theme=dark#gh-dark-mode-only" alt="Kleme44's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleme44&layout=compact&theme=dark#gh-dark-mode-only" align='right'>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=kleme44&show_icons=true&theme=dark#gh-dark-mode-only" alt="Kleme44's GitHub stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleme44&layout=compact&theme=dark#gh-dark-mode-only">
 
 <hr>
 
