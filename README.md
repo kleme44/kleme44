@@ -2,7 +2,7 @@
 
 Currently working at **ALDI Sued** in Budapest, Hungary 🇭🇺 as a *DevOps engineer* of the International IT services 🧑‍💻. 
 
-As a second job, I'm [starting freelancing](www.kleme.hu) as a full-stack web developer, currently building my portfolio 🎯.
+As a second job, I'm <a href="https://www.kleme.hu/" trigger="_blank">starting freelancing</a> as a full-stack web developer, currently building my portfolio 🎯.
 
 <hr>
 
